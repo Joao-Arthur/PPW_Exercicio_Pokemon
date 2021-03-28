@@ -54,6 +54,13 @@ img {
     display: block;
 }
 
-h3 {
+h2 {
     text-align: center;
+    margin: 25px 0 15px 0;
+    font-size: 60px;
+    color: #ffcd05;
+    -webkit-text-stroke: 6px #3563ad;
+    text-shadow: 0px 0px 4px #1d2c5e;
+    font-family: 'Pokemon';
+    user-select: none;
 }

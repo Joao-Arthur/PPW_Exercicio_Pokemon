@@ -2,7 +2,7 @@ const pokedex = new Map(
     Object.entries({
         1: {
             numero: 1,
-            nome: 'Bulbasauro',
+            nome: 'Bulbassauro',
             tipo: [Tipo.GRAMA, Tipo.VENENOSO],
             descricao: 'É um dos três Pokémon iniciais da região de Kanto. ',
             url:
